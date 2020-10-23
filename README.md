@@ -28,7 +28,7 @@ How it Works
 * This serverless architecture does not ask for servers and database to provide service. It is easy to deploy, easy to manage, easy to develop and reduce cost by the nature of pay as running.
 * Users can easily use browser to access to the platform for demo, such as data visualization result.
 
-Demo Vision teh
+Demo Vision 
 -----
 
 
