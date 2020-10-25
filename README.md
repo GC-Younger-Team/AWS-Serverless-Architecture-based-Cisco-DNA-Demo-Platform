@@ -40,6 +40,30 @@ Demo Topology
 
 ![alt](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/Demo_Topo.png)
 
+Examples
+-----
+|  Example   | Runtime  |
+|  ----  | ----  |
+| [Logstash](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/tree/main/Logstash%20conf)  | Logstash |
+| [get_dnac_client_health](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_dnac_client_health.py)  | Pyhton |
+| [get_dnac_device_list](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_dnac_device_list.py)  | Pyhton |
+| [get_dnac_ip_pool](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_dnac_ip_pool.py)  | Pyhton |
+| [get_dnac_issue](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_dnac_issue.py)  | Pyhton |
+| [get_dnac_network_health](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_dnac_network_health.py)  | Pyhton |
+| [get_dnac_site_list](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_dnac_site_list.py)  | Pyhton |
+| [get_sdwan_bdf_tunnel_health](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_bdf_tunnel_health.py)  | Pyhton |
+| [get_sdwan_device_health](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_device_health.py)  | Pyhton |
+| [get_sdwan_device_list](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_device_list.py) |Pyhton |
+| [get_sdwan_ips_event](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_ips_event.py) |Pyhton |
+| [get_sdwan_top_application](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_top_application.py) |Pyhton |
+| [get_sdwan_transportlink_health](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_transportlink_health.py) |Pyhton |
+| [get_sdwan_url_filter_event](https://github.com/GC-Younger-Team/AWS-Serverless-Architecture-based-Cisco-DNA-Demo-Platform/blob/main/get_sdwan_url_filter_event.py) |Pyhton |
+
+
+
+
+
+
 
 
 
